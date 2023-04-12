@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Phuong Linh babesocute - Home </title>
+	</head>
+	
+	<body>
+		<h1> Welcome to My World </h1>
+		
+		<p> I'm so beautiful  </p>
+		
+		<br>
+		
+		<a href="about.html">About Me</a>
+		
+		<br>
+		
+		<a href="https://www.facebook.com/">Click here to see my Facebook Page</a>
+		
+		<br>
+		
+		<a href="https://www.instagram.com/">Click here to see my Instagram Page</a>
+		
+		<img src="http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcSRY-AknQR92oG25jne-IoHmT6Y_sPCKnIdEXQBXm_KIFK9219HKRlPSCA0wUNqM2UvyoqpAflf1fttiNk">
+		
+		<img src="http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcSRY-AknQR92oG25jne-IoHmT6Y_sPCKnIdEXQBXm_KIFK9219HKRlPSCA0wUNqM2UvyoqpAflf1fttiNk" alt="linh" height="350 width="450">
+		
+		<br>
+		
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/eoG6vj-DyS4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		
+		<br>
+		
+		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7838.973338948765!2d106.69929410299116!3d10.773988769442942!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752f46fd67ea19%3A0x57881ba4c546af7a!2zUGjDtMyBIMSRaSBiw7TMoyBOZ3V5w6rMg24gSHXDqsyjLCDEkC4gTmd1ecOqzINuIEh1w6rMoywgQuG6v24gTmdow6ksIFF14bqtbiAxLCBUaMOgbmggcGjhu5EgSOG7kyBDaMOtIE1pbmgsIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1680696857367!5m2!1svi!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+		
+		<br>
+		
+		<iframe scrolling="no" width=640 height=180 src=https://zingmp3.vn/embed/song/Z6907890?start=false frameborder="0" allowfullscreen="true"/>
+	</body>
